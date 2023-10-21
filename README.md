@@ -20,6 +20,7 @@
 ### My stats
 <div>
   <a href="https://www.linkedin.com/in/caio-sales-614669178/](https://github-readme-stats.vercel.app/api?username=salesrocketdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" target="about_blank"> 
+<img src="https://www.linkedin.com/in/caio-sales-614669178/](https://github-readme-stats.vercel.app/api?username=salesrocketdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
   </a>
 </div>
 <!--
