@@ -19,9 +19,6 @@
 
 ### My stats
 <div>
-<a href="https://github.com/salesrocketdev">
-![salesrocketdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salesrocketdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
   ![salesrocketdev's Stats](https://github-readme-stats.vercel.app/api?username=salesrocketdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </div>
 <!--
