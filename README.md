@@ -19,7 +19,11 @@
 
 ### My stats
 <div>
-  ![salesrocketdev's Stats](https://github-readme-stats.vercel.app/api?username=salesrocketdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <a href="[
+https://www.linkedin.com/in/caio-sales-614669178/](https://github-readme-stats.vercel.app/api?username=salesrocketdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+" 
+target="about_blank"> 
+  </a>
 </div>
 <!--
 **salesrocketdev/salesrocketdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
