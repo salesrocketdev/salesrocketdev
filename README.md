@@ -16,13 +16,6 @@
 <div>
 <a href="https://www.linkedin.com/in/caio-sales-614669178/" target="about_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-### My stats
-<div>
-  <a href="https://www.linkedin.com/in/caio-sales-614669178/](https://github-readme-stats.vercel.app/api?username=salesrocketdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" target="about_blank"> 
-<img src="https://www.linkedin.com/in/caio-sales-614669178/](https://github-readme-stats.vercel.app/api?username=salesrocketdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-  </a>
-</div>
 <!--
 **salesrocketdev/salesrocketdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
