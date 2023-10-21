@@ -16,5 +16,3 @@
 <div>
 <a href="https://www.linkedin.com/in/caio-sales-614669178/" target="about_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![salesrocketdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=salesrocketdev&theme=vue-dark&hide_border=true)
