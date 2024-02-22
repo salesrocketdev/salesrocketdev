@@ -1,6 +1,7 @@
-### Hi there 🍹
-##### My name is Caio Sales, I live in Rio de Janeiro State, Brazil.
-##### I am a systems analyst currently working as a Front End Developer. I have expertise in HTML, CSS, JavaScript and frameworks and .NET technologies like C#, ASP.NET etc...
+## Hi there 🍹
+
+My name is Caio Sales, I live in Rio de Janeiro State, Brazil.
+I am a systems analyst currently working as a Front End Developer. I have expertise in HTML, CSS, JavaScript and frameworks and .NET technologies like C#, ASP.NET etc...
 
 ## About me
 
