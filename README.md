@@ -4,9 +4,7 @@
 
 ## About me
 
-## 🔭 Current Work
-
-- Working at Grupo Allo
+#### 🔭 Currently Working at Grupo Allo
 
 ## 👯 Collaboration Interests
 
