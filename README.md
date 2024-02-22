@@ -16,4 +16,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/sales-rocketdev/?locale=en_US)
 
-Feel free to reach out for collaboration or just to chat about any of the topics mentioned above! 😊
+Feel free to reach out for collaboration or just to chat about any of the topics mentioned above!
