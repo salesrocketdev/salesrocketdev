@@ -4,15 +4,15 @@
 
 ## About me
 
-#### 🔭 Currently Working at Grupo Allo
+##### 🔭 Currently Working at Grupo Allo
 
-## 👯 Collaboration Interests
+##### 👯 Collaboration Interests
 
 - Front End Development
 - .NET
 - Azure
 
-## 📫 Connect with Me
+##### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sales-rocketdev/?locale=en_US)
 
